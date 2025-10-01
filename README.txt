@@ -1,0 +1,1 @@
+Seaside Stories - Starter static site\n\nFiles:\n- index.html, about.html, blog.html, contact.html\n- post-koh-lipe.html, post-packing.html, post-transport.html\n- styles.css and images/\n\nHow to preview:\n1. Unzip the package\2. Open index.html in a browser\n\nTo deploy: push to GitHub and enable GitHub Pages, or drop to Netlify/Vercel.
